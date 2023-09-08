@@ -1,7 +1,7 @@
 # TivaDB
 ### Next gen db that is designed to be fast, secure and stable, fully written in kotlin
 
-## THE PROJECT IS WIP
+#### **THE PROJECT IS WIP**
 
 #### it is planned to support JVM, NATIVE, and JS for now
 
